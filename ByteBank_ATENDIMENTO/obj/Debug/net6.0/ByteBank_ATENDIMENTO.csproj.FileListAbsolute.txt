@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\bin\Debug\net6.0\ByteBank_ATENDIMENTO.exe
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\bin\Debug\net6.0\ByteBank_ATENDIMENTO.deps.json
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\bin\Debug\net6.0\ByteBank_ATENDIMENTO.runtimeconfig.json
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\bin\Debug\net6.0\ByteBank_ATENDIMENTO.dll
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\bin\Debug\net6.0\ByteBank_ATENDIMENTO.pdb
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\ByteBank_ATENDIMENTO.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\ByteBank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\ByteBank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\ByteBank_ATENDIMENTO.AssemblyInfo.cs
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\ByteBank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\ByteBank_ATENDIMENTO.dll
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\refint\ByteBank_ATENDIMENTO.dll
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\ByteBank_ATENDIMENTO.pdb
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\ByteBank_ATENDIMENTO.genruntimeconfig.cache
+C:\Users\marce\source\repos\ByteBank_ATENDIMENTO\ByteBank_ATENDIMENTO\obj\Debug\net6.0\ref\ByteBank_ATENDIMENTO.dll
